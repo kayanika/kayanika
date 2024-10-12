@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anika Monir</h1>
+<h1 align="center">Hello! I'm Anika Monir</h1>
 <h3 align="center">I am currently a software engineer working in IQVIA!</h3>
-<img src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 - 🔭 My research interest lies in HCI because I want to make this world a little better for the people living in it ✊
 
 - 🌱 I’m working as a data engineer and contributing in an ongoing research simultaneously .**
