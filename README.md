@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anika Monir</h1>
-<h3 align="center">An undergraduate CS Engineering student from Bangladesh University of Engineering and Technology</h3>
+<h3 align="center">I am currently a software engineer working in IQVIA!</h3>
 <img src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
-- 🔭 I’m currently working on [my undergraduate thesis.](https://github.com/CSE-400-Thesis-on-PTSD)
+- 🔭 My research interest lies in HCI because I want to make this world a little better for the people living in it ✊
 
-- 🌱 I’m currently learning **Machine learning, deep learning.**
+- 🌱 I’m working as a data engineer and contributing in an ongoing research simultaneously .**
 
-- 👯 I’m looking to collaborate on **software developement projects.**
+- 👯 I’m looking to collaborate on **software development projects or research  that lies within my interest.**
 
-- 🤝 I’m looking for help with **computer security. I am enthuasiastic about learning defenses against cyber security attacks.**
+- 🤝 I’m looking for help with **computer security. I am enthusiastic about learning defenses against cyber security attacks.**
 
 - 💬 Ask me about **object oriented programming or problem solving.**
 
 - 📫 How to reach me **anikamonirmim@gmail.com**
 
-- ⚡ Fun fact **I think I can be tenacious until I figure something out-that has come in handy until now.**
+- ⚡ Fun fact **I can be tenacious until I figure something out-that has come in handy until now.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
